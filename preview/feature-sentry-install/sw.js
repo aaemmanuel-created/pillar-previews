@@ -1,4 +1,4 @@
-const CACHE_NAME = 'preview-feature-sentry-install-pva-cache-v40';
+const CACHE_NAME = 'preview-feature-sentry-install-pva-cache-v41';
 const ASSETS = [
   '/',
   '/index.html',
